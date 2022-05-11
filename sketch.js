@@ -46,7 +46,7 @@ function draw() {
       car.shapeColor = "yellow";
     
       stroke("yellow");
-      fill("yrllow");
+      fill("yellow");
       textSize(40);
       text("Average", width/2, height/2);
     }
